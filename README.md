@@ -11,6 +11,7 @@
 
 <h1> a based github corner </h1>
 at the moment studying 1st grade of software engineering
+<img height="300" align="right" src="./waifuj.svg" alt="waifu made by my friend celeb19">
 
 <h2> distros i use </h2>
 <ul>
